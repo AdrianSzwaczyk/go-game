@@ -16,7 +16,7 @@ This is a console-based implementation of the board game **Go**. The game allows
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/AdrianSzwaczyk/go-game
+   git clone https://github.com/AdrianSzwaczyk/go-game.git
    ```
 2. Compile the game using a C++ compiler (it's the easiest to just open VS solution and compile it).
 
