@@ -1,5 +1,7 @@
 # Go Game
 
+![Go Game Screenshot](preview/game.png)
+
 ## Overview
 This is a console-based implementation of the board game **Go**. The game allows players to compete against each other, place stones, capture opponent stones, and calculate scores based on the traditional rules of Go. The game also supports handicap stones, the ability to save and load game states, and dynamic board resizing.
 
